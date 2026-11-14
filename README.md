@@ -170,16 +170,6 @@ CREATE TABLE Employees (
 
 ---
 
-## 📂 Project Structure
-
-mysql-database-design-project/
-│
-├── MY SQL Assignment 01.sql
-├── MySQL Assignment 1 – DDL Commands & Constraints.pdf
-└── README.md
-
----
-
 ## 🎓 Learning Outcomes
 
 Through this project, I gained hands-on experience in:
